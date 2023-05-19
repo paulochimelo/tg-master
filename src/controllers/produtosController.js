@@ -1,0 +1,1 @@
+const produtosService = require('../services/produtosService');

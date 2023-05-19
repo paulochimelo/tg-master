@@ -1,0 +1,1 @@
+const localizacaoService = require('../services/localizacaoService');

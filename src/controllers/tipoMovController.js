@@ -1,0 +1,1 @@
+const tipoMovService = require('../services/tipoMovService');
